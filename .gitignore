@@ -1,0 +1,4 @@
+.env*
+mariadb_data/
+__pycache__/
+*.log
